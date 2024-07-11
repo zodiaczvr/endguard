@@ -6,6 +6,14 @@ website pages:
 
 download the mod you can go here: https://modrinth.com/mod/endguard
 
+//////////////
+
+discord server:
+
+//////////////
+
+discord server link here: https://discord.com/invite/qaDE3X4P7A
+
 /////////////////////////////////////////////////
 
 endguard mod Description:
