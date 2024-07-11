@@ -1,11 +1,15 @@
 //////////////
+
 website pages:
+
 //////////////
 
 download the mod you can go here: https://modrinth.com/mod/endguard
 
 /////////////////////////////////////////////////
+
 endguard mod Description:
+
 /////////////////////////////////////////////////
 
 This is not just a game—it's an unforgiving survival gauntlet. The Ancient Builders Mod is designed for those seeking the ultimate challenge, far surpassing the difficulty of standard Minecraft mods. While other mods might offer enhanced gameplay or additional features, this mod takes difficulty to an entirely new level, making it twice as challenging as games like Elden Ring.
@@ -25,7 +29,9 @@ A True Test of Endurance Compared to easier mods that enhance gameplay or provid
 Prepare for an experience where every mistake is fatal and only the strongest will prevail. This is the Extreme Ancient Builders Mod—enter if you dare.
 
 /////////////////////////////////////////////////
+
 minecraft ancient builders lore for endguard mod:
+
 /////////////////////////////////////////////////
 
 Chapter 1: The Dawn of the Builders In the earliest days of Minecraft, a civilization known as the Ancient Builders flourished. Their ingenuity and craftsmanship were unparalleled, and they sculpted the world with their hands and minds, creating vast cities, towering monuments, and intricate machinery. They thrived in harmony with the world, mastering both the Overworld and the Nether.
